@@ -1,4 +1,4 @@
-const GetCriteria=require('./lib/getcriteria');
+const GetCriteria=require('./lib/getcriteria.js');
 
 const getcriteria= new GetCriteria();
 
