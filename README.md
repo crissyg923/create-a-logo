@@ -3,6 +3,10 @@
 ## Description
 This project uses node and object oriented programming  to create a logo generator that accepts user input and utilizes it to create a custom logo.  This appliction is very useful for business owners that need simple logos or for someone looking for branded placeholder images.  Executing this project solidified my understanding of creating class constructors and how useful they can be.  I also furthured my understanding of node and its many use cases.  
 
+Below is a screenshot of the app being used in the terminal and the logo that it created.
+![Terminal Screenshot](./images/Terminal%20Screenshot.png)
+![Logo Screenshot](./images/Screenshot%202023-09-17%20at%207.13.15%20PM.png)
+
 ## Table of Contents
 
 1. [Installation](#installation)
@@ -19,13 +23,13 @@ This project can be installed by cloning the [command-line-readme](https://githu
 You can run the application by typing node index.js in your terminal and answering the prompts.  Upon completing the prompts, an SVG file with your specified criteria will be generated and can be found in the output folder.
 
 ## Credits
-I worked with a Rutgers Full Stack tutor and made use of code from class assignments to guide me in creating the code.
+I worked with a Rutgers Full Stack tutor and utilized code from class assignments to guide me in creating the code.
 
 ## How to Contribute
-Someone can contribute by adding more options to the logo generator, such as the option to add symbols or other more intricate details.
+Someone can contribute by adding more features to the logo generator, such as the option to add symbols or other more intricate details. You can do this by cloning the repository, making a new/feature branch, and pushing your changes to that branch.
 
 ## Tests
-I ran tests on the shapes.js file to ensure that the class constructors were properly instantiating new triangle, circle, and square classes.  I also ran tests to make sure that errors were successfully being thrown.
+I ran tests on the shapes.js file to ensure that the class constructors were properly instantiating new triangle, circle, and square classes.  I also ran tests to make sure that errors were successfully being thrown as well as tests to check that th render methods were properly setting SVG content.  All tests are referenced in the shapes.test.js file.
 
 ## License
 MIT License
