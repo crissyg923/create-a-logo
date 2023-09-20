@@ -1,9 +1,14 @@
 # create-a-logo
 ![Static Badge](https://img.shields.io/badge/License-MIT-green)
+
+[Demo Video of App Running in Terminal](https://drive.google.com/file/d/1qbUH_a_i3TDtt3R1ALlj5h2SeNO8byF3/view)
+
+[Link to Repo](https://github.com/crissyg923/create-a-logo)
 ## Description
 This project uses node and object oriented programming  to create a logo generator that accepts user input and utilizes it to create a custom logo.  This appliction is very useful for business owners that need simple logos or for someone looking for branded placeholder images.  Executing this project solidified my understanding of creating class constructors and how useful they can be.  I also furthured my understanding of node and its many use cases.  
 
-Below is a screenshot of the app being used in the terminal and the logo that it created.
+Below is a screenshot of the app being used in the terminal and the logo that it created as well as a link to a video of the app running in the terminal.
+
 ![Terminal Screenshot](./images/Terminal%20Screenshot.png)
 ![Logo Screenshot](./images/Screenshot%202023-09-17%20at%207.13.15%20PM.png)
 
